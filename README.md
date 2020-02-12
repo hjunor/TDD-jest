@@ -3,5 +3,5 @@
 ainda em desenvolvimento...
 # Banco de dados PostgreSQL
 
-usando sequelize.
+usando sequelize para prover comandos
 
